@@ -1,3 +1,5 @@
+import pytest
+
 from task_1.DESIGN import get_id_chat_one, switch_to_another_tab, \
     message_test, get_id_chat_two, your_id_one_and_two, browser
 import requests
