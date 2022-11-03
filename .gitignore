@@ -1,0 +1,12 @@
+../.idea
+venv
+.pytest_cache
+*.pyc
+__pycache__
+/geckodriver.log
+.idea
+*.log
+__pycache__/
+/venv
+pytest.ini
+geckodriver.log
